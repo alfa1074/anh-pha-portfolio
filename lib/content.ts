@@ -8,7 +8,7 @@ export const site = {
   name: "Anh Pha",
   title: "Junior QA Engineer",
   // Update this to your real production domain before deploying to Vercel.
-  url: "https://anhpha.vercel.app",
+  url: "https://anh-pha-portfolio.vercel.app",
   description:
     "Junior QA Engineer with hands-on experience in enterprise telecommunications software testing, manual testing, API testing, requirement review and release validation.",
   locale: "en_US",
