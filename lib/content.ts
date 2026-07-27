@@ -5,7 +5,7 @@
  */
 
 export const site = {
-  name: "Anh Pha",
+  name: "Pha Vo",
   title: "Junior QA Engineer",
   // Update this to your real production domain before deploying to Vercel.
   url: "https://anh-pha-portfolio.vercel.app",
